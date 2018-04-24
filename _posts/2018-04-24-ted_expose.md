@@ -2,7 +2,7 @@
 layout: post
 title: "ted_expose than you think"
 description: interesting idea about data privacy
-image: 'https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/facebook_privacy.jpg'
+image: ![facebook_privacy](https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/facebook_privacy.jpg)
 category: 'blog'
 twitter_text: abc
 introduction: defg
