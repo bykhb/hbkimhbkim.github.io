@@ -25,7 +25,7 @@ information that may have been used to target specific ads.
 </p>
 
 ## It's not a new story
-
+------
  <p>
  It is not a new story that the social media, including Facebook, use private data for marketing. <br>
  There are many people already have warned of the data privacy. Following the video, from ted lecture, is a typical example. <br>
@@ -36,12 +36,12 @@ information that may have been used to target specific ads.
  </p>
 
 <p>
-According to the video, the most important indicator that predicts high intelligence is 'liking a page
-for curly fries.<br>
+According to the video, the most important indicator that predicts high intelligence is 'liking a page for curly fries.<br>
 This ridiculous result can be explained by the term 'homophily' from a sociological theory.<br>
 In short, people are friends with people like them. So if you're smart, you tend to be friends with smart people, and if you're young, you tend to be friends with young people, and this is well established for hundreds of years.  So, if smart people liked it, then their friends saw it, and it spread to smart people group. It propagated through the network to a host of smart people. By the end, the action of liking the curly fries page is indicative of high intelligence, not because of the content, but because the actual action of liking reflects back the common attributes of other people who have done it.<br>
 
-### More details about the article
+##More details about the article
+------
 
 <p>
 Let's take a closer look at the paper she mentioned in the video('Private traits and attributes are predictable from digital records of human behavior'). The design of the study is presented above the image. <br>
@@ -51,8 +51,7 @@ They selected traits and attributes that reveal how accurate and potentially int
 
 ![design1](https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/design1.jpg)
 
-<The study is based ona sample of 58,466 volunteers fromtheUnited States, obtained throughthemyPersonality Facebook application (www.mypersonality.org/wiki), which included their Facebook profile information, a list of their Likes (n = 170 Likes per person on average), psychometric test scores, and survey information.
-Users and their Likes were represented as a sparse user–Like matrix, the entries ofwhich were set to 1 if there existed an association between a user and a Like and 0 otherwise. The dimensionality of the user–Like matrix was reduced using singular-value decomposition (SVD) (24). Numeric variables such as age or intelligence were predicted using a linear regression model, whereas dichotomous variables such as gender or sexual orientation were predicted using logistic regression. In both cases,weapplied 10-fold cross-validation and used the k =100 top SVDcomponents. For sexual orientation, parents’ relationship status, and drug consumption only k = 30 top SVD components were used because of the smaller number of users for which this information was available.>
+<The study is based ona sample of 58,466 volunteers fromtheUnited States, obtained throughthemyPersonality Facebook application (www.mypersonality.org/wiki), which included their Facebook profile information, a list of their Likes (n = 170 Likes per person on average), psychometric test scores, and survey information. Users and their Likes were represented as a sparse user–Like matrix, the entries ofwhich were set to 1 if there existed an association between a user and a Like and 0 otherwise. The dimensionality of the user–Like matrix was reduced using singular-value decomposition (SVD) (24). Numeric variables such as age or intelligence were predicted using a linear regression model, whereas dichotomous variables such as gender or sexual orientation were predicted using logistic regression. In both cases,weapplied 10-fold cross-validation and used the k =100 top SVDcomponents. For sexual orientation, parents’ relationship status, and drug consumption only k = 30 top SVD components were used because of the smaller number of users for which this information was available.> </br>
 
 The results are presented in two ways depending on the type of dependent variables, binary or numeric.
 
@@ -65,7 +64,8 @@ or even one’s Facebook friends could use software to infer attributes such as 
 
 There is a risk that the growing awareness of digital exposure may negatively affect people’s experience of digital technologies, decrease their trust in online services, or even completely deter them from using digital technology. It is our hope, however, that the trust and goodwill among parties interacting in the digital environment can be maintained by providing users with transparency and control over their information, leading to an individually controlled balance between the promises and perils of the Digital Age.
 
-###Even if you decide not to publish it, they already know
+##Even if you decide not to publish it, they already know
+------
 
 <p>
 According to an article, when we started writing something and then changed our minds not to post on Facebook, <br>
