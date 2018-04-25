@@ -15,7 +15,7 @@ introduction: defg
 ## Facebook Scandal
 
 <p>
-  **'I always looked at it as a relatively pastime'**
+  <strong>'I always looked at it as a relatively pastime'</strong>
 </p>
 
 <p>
