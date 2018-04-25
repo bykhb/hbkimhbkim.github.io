@@ -32,7 +32,7 @@ information that may have been used to target specific ads.
  </p>
 
 <p>
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hgWie9dnssU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ https://www.youtube.com/watch?v=hgWie9dnssU
  </p>
 
 <p>
@@ -74,7 +74,8 @@ In Facebook’s Data Use Policy, under a section called "Information we receive 
 
 Typing and deleting text in a box could be considered a type of interaction, but I think very few of us would expect that data to be saved. <br>
 
-###predict personal things
+##predict personal things
+------
 
 <p>
 Many data scientist have developed algorithms which can quite accurately predict things like your political preference, your personality score, gender, sexual orientation, religion, age, intelligence, along with things like how much you trust the people you know and how strong those relationships are. With the development of algorithms, the rate of prediction is increasing.
