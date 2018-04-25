@@ -7,15 +7,12 @@ url: "https://www.hbkimhbkim.github.io" # the base hostname & protocol for your 
 google_analytics: "UA-XXXXXXXX-X"
 
 # User settings
-username: Thiago Rossener # it will appear on each page title after '|'
+username: hbkim # it will appear on each page title after '|'
 user_description: Some text about you.
 disqus_username: disqus_username
 
 # Social Media settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
