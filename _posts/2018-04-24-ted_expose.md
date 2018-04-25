@@ -10,8 +10,6 @@ introduction: defg
 
 # How little we know about How much others know
 
-![facebook_privacy](https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/facebook_privacy.jpg)
-
 ## Facebook Scandal
 ------
 <p>
@@ -46,9 +44,8 @@ In short, people are friends with people like them. So if you're smart, you tend
 
 <p>
 Let's take a closer look at the paper she mentioned in the video('Private traits and attributes are predictable from digital records of human behavior'). The design of the study is presented above the image. <br>
-
-They selected traits and attributes that reveal how accurate and potentially intrusive such a predictive analysis can be, including “sexual orientation,” “ethnic origin,” “political views,” “religion,” “personality,” “intelligence,” etc. And basic demographic attributes such as “age,” “gender,” “relationship status,” and “size and density of the friendship network.” Five Factor Model (9) personality scores (n = 54,373) were established using the International Personality Item Pool (IPIP) questionnaire with 20 items (25). Intelligence (n = 1,350) was measured using Raven’s Standard Progressive Matrices (SPM) (26). Age (n = 52,700; average, μ = 25.6; SD = 10), gender (n = 57,505; 62% female), relationship status (“single”/“in relationship”; n = 46,027; 49% single), political views (“Liberal”/“Conservative”; n = 9,752;
-65% Liberal), religion (“Muslim”/“Christian”; n = 18,833; 90% Christian), and the Facebook social network information [n = 17,601; median size, ~X = 204; interquartile range (IQR), 206; median density, ~X = 0.03; IQR, 0.03] were obtained from users’ Facebook profiles.
+  
+ They selected traits and attributes that reveal how accurate and potentially intrusive such a predictive analysis can be, including “sexual orientation,” “ethnic origin,” “political views,” “religion,” “personality,” “intelligence,” etc. And basic demographic attributes such as “age,” “gender,” “relationship status,” and “size and density of the friendship network.” Five Factor Model (9) personality scores (n = 54,373) were established using the International Personality Item Pool (IPIP) questionnaire with 20 items (25). Intelligence (n = 1,350) was measured using Raven’s Standard Progressive Matrices (SPM) (26). Age (n = 52,700; average, μ = 25.6; SD = 10), gender (n = 57,505; 62% female), relationship status (“single”/“in relationship”; n = 46,027; 49% single), political views (“Liberal”/“Conservative”; n = 9,752;65% Liberal), religion (“Muslim”/“Christian”; n = 18,833; 90% Christian), and the Facebook social network information [n = 17,601; median size, ~X = 204; interquartile range (IQR), 206; median density, ~X = 0.03; IQR, 0.03] were obtained from users’ Facebook profiles.
 
 ![design1](https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/design1.jpg)
 
