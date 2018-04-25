@@ -32,8 +32,8 @@ information that may have been used to target specific ads.
  </p>
 
 <p>
- https://www.youtube.com/watch?v=hgWie9dnssU
- </p>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/hgWie9dnssU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
 
 <p>
 According to the video, the most important indicator that predicts high intelligence is 'liking a page for curly fries.<br>
