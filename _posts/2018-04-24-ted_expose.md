@@ -40,7 +40,7 @@ According to the video, the most important indicator that predicts high intellig
 This ridiculous result can be explained by the term 'homophily' from a sociological theory.<br>
 In short, people are friends with people like them. So if you're smart, you tend to be friends with smart people, and if you're young, you tend to be friends with young people, and this is well established for hundreds of years.  So, if smart people liked it, then their friends saw it, and it spread to smart people group. It propagated through the network to a host of smart people. By the end, the action of liking the curly fries page is indicative of high intelligence, not because of the content, but because the actual action of liking reflects back the common attributes of other people who have done it.<br>
 
-##More details about the article
+## More details about the article
 ------
 
 <p>
@@ -64,7 +64,7 @@ or even one’s Facebook friends could use software to infer attributes such as 
 
 There is a risk that the growing awareness of digital exposure may negatively affect people’s experience of digital technologies, decrease their trust in online services, or even completely deter them from using digital technology. It is our hope, however, that the trust and goodwill among parties interacting in the digital environment can be maintained by providing users with transparency and control over their information, leading to an individually controlled balance between the promises and perils of the Digital Age.
 
-##Even if you decide not to publish it, they already know
+## Even if you decide not to publish it, they already know
 ------
 
 <p>
@@ -74,7 +74,7 @@ In Facebook’s Data Use Policy, under a section called "Information we receive 
 
 Typing and deleting text in a box could be considered a type of interaction, but I think very few of us would expect that data to be saved. <br>
 
-##predict personal things
+## Predict personal things
 ------
 
 <p>
