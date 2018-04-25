@@ -32,7 +32,8 @@ information that may have been used to target specific ads.
  </p>
 
 <p>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/hgWie9dnssU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[linkname](https://youtu.be/hgWie9dnssU)
+
 </p>
 
 <p>
