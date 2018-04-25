@@ -13,7 +13,7 @@ introduction: defg
 ![facebook_privacy](https://github.com/hbkimhbkim/hbkimhbkim.github.io/blob/master/_images/facebook_privacy.jpg)
 
 ## Facebook Scandal
-
+------
 <p>
   <strong>'I always looked at it as a relatively pastime'</strong>
 </p>
@@ -24,7 +24,7 @@ Very few people use social-media in deep consideration of how their digital trac
 information that may have been used to target specific ads.
 </p>
 
-### It's not a new story
+## It's not a new story
 
  <p>
  It is not a new story that the social media, including Facebook, use private data for marketing. <br>
@@ -84,7 +84,7 @@ Many data scientist have developed algorithms which can quite accurately predict
 Take language analysis, a really powerful tool where we look at the kinds of words that you use — not even necessarily obvious things like curse words, but things like function words: how often you use “I” versus “we,” how often you use “the” versus “a,” these little words that are natural in the way that you develop language and inherent to your personality. It turns out that those reveal all sorts of personal traits. There’s a whole field of psycholinguistics in which people are doing deeper research into comparing the kinds of words you use and how often you use them with personal attributes, and that’s not something you can understand or control.
 </P>
 
-*References
+<em> References
 http://www.slate.com/articles/technology/future_tense/2013/12/facebook_self_censorship_what_happens_to_the_posts_you_don_t_publish.html
 http://www.slate.com/articles/technology/future_tense/2014/01/facebook_cleansing_how_to_delete_all_of_your_account_activity.html
-https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think*
+https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think </em>
