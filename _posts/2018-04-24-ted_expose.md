@@ -32,7 +32,7 @@ information that may have been used to target specific ads.
  </p>
 
 <p>
-[linkname](https://www.youtube.com/watch?v=hgWie9dnssU)
+https://www.youtube.com/watch?v=hgWie9dnssU
 
 </p>
 
